@@ -84,7 +84,7 @@ ul{
 .showcase{
     width: 100%;
     height:400px;
-    background: url('./Images/slide1.png') no-repeat center center/cover;
+    background: url(/Images/slide1.png) no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -132,7 +132,7 @@ ul{
 .xbox{
     width: 100%;
     height: 350px;
-    background: url('Images/xbox.png') no-repeat center center/cover;
+    background: url(/Images/xbox.png) no-repeat center center/cover;
     margin-bottom: 20px;
 }
 .xbox .content{
@@ -148,7 +148,7 @@ ul{
 .carbon{
     width: 100%;
     height:350px;
-    background: url('Images/carbon.jpg') no-repeat center center/cover;
+    background: url(/Images/carbon.jpg) no-repeat center center/cover;
 }
 .carbon .content{
     width: 55%;
